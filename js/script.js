@@ -9,6 +9,40 @@ $( document ).ready(function() {
   
 
 
+$("button").click(function(){
+	
+});
+
+
+function piglatin(word){
+	
+}
+	
+	
+
+		
+function sentenceToPigLatin(x){
+	
+		var sentence = x; 
+		var newArray = x.split(" ");
+		return newArray;
+		
+}
+
+console.log(sentenceToPigLatin("hello my name is"));
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 });
 
