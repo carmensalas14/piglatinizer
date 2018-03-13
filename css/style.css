@@ -1,4 +1,33 @@
-
 body{
+    text-align:center;
+}
+
+#title{
     text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+
+#pigGif{
+    height:400px;
+    text-align:center;
+
+    
+}
+
+#input{
+    height: 50px;
+    width: 500px;
+    text-align:center;
+    font-size: 25px;
+}
+
+#button{
+    
+}
+
+#message{
+    text-align:center;
+    font-size: 35px;
 }
