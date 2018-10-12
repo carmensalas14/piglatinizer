@@ -8,8 +8,7 @@
 // Document Ready Function. All of your jQuery should go in here. 
 $( document ).ready(function() {
 	
-	
-    function ay(word) {
+	 function ay(word) {
             var messagetwo = $("input").val();
             var firstLetter = word[0].toLowerCase();
                 
@@ -43,7 +42,6 @@ $("button").click(function() {
                 var newMessage = sentenceToPigLatin(messagetwo);
                 $("#message").text(newMessage);
             });
-
 
 
 
